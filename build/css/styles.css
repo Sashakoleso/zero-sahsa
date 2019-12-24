@@ -454,7 +454,7 @@ header {
 }
 
 .section__header-box {
-  background-image: url(../../images/img__header-bg--320.jpg);
+  background-image: url(../images/img__header-bg--320.jpg);
   height: 568px;
   background-size: cover;
   background-repeat: no-repeat;
@@ -531,7 +531,7 @@ header {
 
 .header__list-item::before {
   display: inline-block;
-  content: '';
+  content: "";
   width: 7px;
   height: 12px;
   margin: 0;
